@@ -59,7 +59,7 @@ export default function App() {
           {activeTab === 'inicio' && (
             <>
               <h2 style={styles.sectionTitle}>Boas-vindas ao Portal Oficial</h2>
-              <div style={styles.divider}>AuryAbreu</div>
+              <div style={styles.divider}>Aury Abreu</div>
               <p style={styles.text}>
                 Este ambiente digital foi estruturado seguindo os princípios de transparência, 
                 formalidade e organização. Aqui encontram-se reunidos os registros profissionais, 
